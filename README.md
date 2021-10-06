@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mklankireddy
 - 👀 I’m interested in Innovation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, ML, and AI
+- 💞️ I’m looking to collaborate on Python, ML, and AI
 - 📫 How to reach me ...
 
 <!---
